@@ -21,12 +21,6 @@ bin/
 # NetBeans
 nb-configuration.xml
 
-# Visual Studio Code
-!.vscode/*.shared.json
-!.vscode/extensions.json
-.vscode/*.json
-.vscode/*.local.json
-
 .factorypath
 
 # OSX
@@ -42,3 +36,10 @@ nb-configuration.xml
 
 # Local environment
 .env
+
+# Node
+node_modules
+
+# Logs
+*.log
+*.log.*
